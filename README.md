@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArnavArora665
-- 🌱 I’m currently learning: React Js
+- 
 - 💞️ I’m looking to collaborate on : with Some New Projects
 - 📫 How to reach me aroraarnav8@gmail.com
 - 💬 Ask me about: Graphics Design, Web Development
